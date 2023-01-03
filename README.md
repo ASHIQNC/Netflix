@@ -11,7 +11,7 @@ This project focuses on the development of Netflix clone using Reactjs
 ## General info
 
 Application is developed to clone the functionality of Netflix.We have used React js for implementing the project.
-Also we have used TMDB movie database to get the movies.
+Also we have used TMDB movie database to get the movies which is showing in the UI.
 
 ## Technologies
 
