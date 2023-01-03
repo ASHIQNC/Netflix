@@ -41,6 +41,18 @@ To run this project:
 3.
 ![video player](https://user-images.githubusercontent.com/81138318/210352309-1717c014-4001-4edd-8fd6-3c07690ec217.png)
 
+
+4.Mobile
+![mobile](https://user-images.githubusercontent.com/81138318/210370113-42a1bf33-a861-480d-8e16-644fb66ffeed.PNG)
+![mobile2](https://user-images.githubusercontent.com/81138318/210370158-3b4cb465-a683-4cb1-b5d7-782d0e9c9271.PNG)
+
+5.Tab
+![ipad](https://user-images.githubusercontent.com/81138318/210370226-d2c24d86-4bdd-44fc-991e-0760cefe7a4f.PNG)
+![ipad 2](https://user-images.githubusercontent.com/81138318/210370243-49bc541b-f90a-4124-8366-1e4fc3b95587.PNG)
+
+
+
+
 ## video
 1.
 https://user-images.githubusercontent.com/81138318/210353707-83dc0a5d-e64b-44bc-a56a-14037866845b.mp4
