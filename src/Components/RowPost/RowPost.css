@@ -1,0 +1,55 @@
+.row {
+  margin-left: 20px;
+  color: #fff;
+}
+
+.posters {
+  display: flex;
+  padding: 20px;
+  /* for making it scrollable */
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+
+/* to remove the scrollbar */
+
+.posters::-webkit-scrollbar {
+  display: none;
+}
+.poster {
+  max-height: 250px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.poster:hover {
+  transform: scale(1.1);
+}
+
+.smallPoster {
+  max-height: 100px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.smallPoster:hover {
+  /* scale property used to make the image get zoomed a bit */
+  transform: scale(1.1);
+}
+.close__button {
+  display: flex;
+  background-color: #b7a9a9;
+  border-radius: 50%;
+  width: 22px;
+  height: 22px;
+  color: red;
+  position: absolute;
+  right: 10px;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+}
+.close__button:hover {
+  color: black;
+  background-color: #fff;
+}
